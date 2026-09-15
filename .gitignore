@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+.streamlit/
+.DS_Store
+*.log
+
+# Trained model + generated demo data (recreate with: python setup_demo.py)
+*.h5
+*.keras
+*.tflite
+model/model_info.json
+dataset/*/
+sample_images/*.png
