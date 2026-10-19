@@ -64,7 +64,7 @@ No cloud services required
 
 Honest Limitations
 
-⚠️ This section is important when evaluating, demonstrating, or submitting this project.
+
 
 This project is an educational accessibility prototype. The current version uses a synthetic demonstration dataset instead of photographs of real Indian banknotes.
 
